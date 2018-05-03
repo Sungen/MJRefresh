@@ -1,0 +1,16 @@
+"MJRefreshHeaderIdleText" = "Dropdown สามารถรีเฟรชได้";
+"MJRefreshHeaderPullingText" = "รีเฟรชรีเฟรชเดี๋ยวนี้";
+"MJRefreshHeaderRefreshingText" = "กำลังรีเฟรชข้อมูล...";
+
+"MJRefreshAutoFooterIdleText" = "คลิกหรือดึงขึ้นเพื่อโหลดเพิ่มเติม";
+"MJRefreshAutoFooterRefreshingText" = "กำลังโหลดข้อมูลเพิ่มเติม...";
+"MJRefreshAutoFooterNoMoreDataText" = "ได้รับการโหลดทั้งหมด";
+
+"MJRefreshBackFooterIdleText" = "ดึงขึ้นสามารถโหลดเพิ่มเติม";
+"MJRefreshBackFooterPullingText" = "เรียกใช้โหลดเพิ่มเติมเดี๋ยวนี้";
+"MJRefreshBackFooterRefreshingText" = "กำลังโหลดข้อมูลเพิ่มเติม...";
+"MJRefreshBackFooterNoMoreDataText" = "ได้รับการโหลดทั้งหมด";
+
+"MJRefreshHeaderLastTimeText" = "อัปเดตครั้งล่าสุด:";
+"MJRefreshHeaderDateTodayText" = "วันนี้";
+"MJRefreshHeaderNoneLastDateText" = "ไม่มีบันทึก";
