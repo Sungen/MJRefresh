@@ -48,6 +48,8 @@
             } else { // zh-Hant\zh-HK\zh-TW
                 language = @"zh-Hant"; // 繁體中文
             }
+        } else if ([language hasPrefix:@"th"]) {
+            language = @"th";
         } else {
             language = @"en";
         }
